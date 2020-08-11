@@ -19,24 +19,26 @@
 
 ❗️  Packages
 
-![]()
+![](https://github.com/yashindulkar/Data-Analysis-using-Julia/blob/master/Images/Packages_1.PNG)
+
+![](https://github.com/yashindulkar/Data-Analysis-using-Julia/blob/master/Images/Packages_2.PNG)
 
 ❗️  Dataset
 
-![]()
+![](https://github.com/yashindulkar/Data-Analysis-using-Julia/blob/master/Images/Load%20Datasets.PNG)
 
 ❗️  Displaying Head for Countries
 
-![]()
+![](https://github.com/yashindulkar/Data-Analysis-using-Julia/blob/master/Images/Datasets.PNG)
 
 ❗️  Countries with Max Numbers
 
-![]()
+![](https://github.com/yashindulkar/Data-Analysis-using-Julia/blob/master/Images/Datasets_Max.PNG)
 
 ❗️  Top Countries
 
-![]()
+![](https://github.com/yashindulkar/Data-Analysis-using-Julia/blob/master/Images/Top%20Countries.PNG)
 
 ❗️  Visualization for Cases
 
-![]()
+![](https://github.com/yashindulkar/Data-Analysis-using-Julia/blob/master/Images/Visualization.PNG)
